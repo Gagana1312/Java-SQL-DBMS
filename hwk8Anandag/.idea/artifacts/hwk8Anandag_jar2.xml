@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hwk8Anandag:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/hwk8Anandag_jar2</output-path>
+    <root id="archive" name="hwk8Anandag.jar">
+      <element id="module-output" name="hwk8Anandag" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
